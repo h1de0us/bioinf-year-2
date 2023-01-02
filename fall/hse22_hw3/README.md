@@ -1,0 +1,1 @@
+[Колаб с основной частью задания](https://colab.research.google.com/drive/186KwQ-IfZRfBSOiIPuHr-Pn_WkE9bbW4#scrollTo=jBjpM_mS8Z2v), в папке src на всякий случай есть ноутбук с тем же содержимым

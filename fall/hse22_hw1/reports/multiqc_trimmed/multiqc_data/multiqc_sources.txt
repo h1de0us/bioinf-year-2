@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	mp1	/home/eakozlova_11/hw1/fastqc_trimmed/mp1.fastq.int_trimmed_fastqc.zip
+FastQC	all_sections	sub2	/home/eakozlova_11/hw1/fastqc_trimmed/sub2.fastq.trimmed_fastqc.zip
+FastQC	all_sections	sub1	/home/eakozlova_11/hw1/fastqc_trimmed/sub1.fastq.trimmed_fastqc.zip
+FastQC	all_sections	mp2	/home/eakozlova_11/hw1/fastqc_trimmed/mp2.fastq.int_trimmed_fastqc.zip

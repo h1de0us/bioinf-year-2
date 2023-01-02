@@ -1,0 +1,37 @@
+Platanus version: 1.2.4
+platanus assemble -o Poil -f sub1.fastq.trimmed sub2.fastq.trimmed 
+
+K = 32, saving kmers from reads...
+AVE_READ_LEN=97.5682
+
+KMER_EXTENSION:
+K=32, KMER_COVERAGE=16.1012 (>= 5), COVERAGE_CUTOFF=5
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=74
+NUM_CUT=0
+TOTAL_NUM_CUT=74
+LENGTH_CUTOFF = 64
+COVERAGE_CUTOFF = 5
+removing erroneous nodes...
+NUM_REMOVED_NODES=0
+TOTAL_NUM_REMOVED_NODES=0
+AVE_KMER_COV_REMOVING_BUBBLE=16.0647
+removing bubbles...
+BUBBLE_IDENTITY_THRESHOLD=0.1
+NUM_REMOVED_BUBBLES=15
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=15
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=853755
+TOTAL_UNMAPPED_READS=104763
+TOTAL_SHORT_READS(<32)=4196
+NUM_DELETE_NODE(reads are unmapped)=1110
+NUM_CUT_NODE=355
+assemble completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:           8.012 GByte
+VmHWM:            8.009 GByte
